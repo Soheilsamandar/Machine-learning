@@ -179,15 +179,17 @@ Each project follows a complete Machine Learning workflow:
 
 Project/
 
-┣ 📂 dataset_generator
-
-┣ 📂 models
+┣ 📜 dataset_generator.py
 
 ┣ 📜 train.py
 
 ┣ 📜 predict.py
 
-┗ 📜 README.md
+┗ 📜 dataset csv file
+  
+┗ 📜 models
+
+  
 
 </pre>
 
