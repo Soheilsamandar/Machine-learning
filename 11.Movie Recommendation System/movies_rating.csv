@@ -1,0 +1,788 @@
+User,Movie,Rating
+1,Interstellar,2
+1,Inception,1
+1,Titanic,1
+1,Avatar,3
+1,Joker,3
+1,Matrix,1
+1,Batman,3
+1,Toy Story,2
+2,Interstellar,5
+2,Inception,4
+2,Titanic,4
+2,Avatar,5
+2,Joker,3
+2,Matrix,1
+2,Batman,1
+2,Toy Story,4
+2,Frozen,5
+3,Interstellar,1
+3,Titanic,4
+3,Avatar,3
+3,Joker,2
+3,Avengers,1
+3,Batman,1
+3,Toy Story,5
+3,Frozen,5
+4,Interstellar,5
+4,Inception,5
+4,Titanic,5
+4,Avatar,2
+4,Joker,3
+4,Matrix,5
+4,Avengers,1
+4,Toy Story,3
+4,Frozen,2
+5,Interstellar,4
+5,Inception,3
+5,Titanic,5
+5,Avatar,1
+5,Joker,1
+5,Matrix,5
+5,Avengers,1
+5,Batman,1
+5,Toy Story,1
+5,Frozen,3
+6,Interstellar,4
+6,Avatar,1
+6,Joker,5
+6,Matrix,4
+6,Avengers,3
+6,Batman,4
+6,Toy Story,2
+6,Frozen,3
+7,Titanic,1
+7,Joker,3
+7,Avengers,5
+7,Toy Story,2
+8,Interstellar,2
+8,Inception,1
+8,Titanic,2
+8,Avatar,4
+8,Joker,3
+8,Batman,3
+8,Toy Story,3
+8,Frozen,4
+9,Titanic,4
+9,Avatar,2
+9,Matrix,5
+9,Avengers,5
+10,Interstellar,4
+10,Inception,1
+10,Titanic,2
+10,Joker,1
+10,Matrix,5
+10,Avengers,3
+10,Toy Story,5
+10,Frozen,2
+11,Interstellar,1
+11,Inception,3
+11,Titanic,2
+11,Avatar,4
+11,Joker,4
+11,Matrix,2
+11,Batman,4
+11,Toy Story,4
+11,Frozen,2
+12,Interstellar,2
+12,Inception,5
+12,Titanic,1
+12,Avatar,1
+12,Joker,3
+12,Toy Story,1
+13,Interstellar,1
+13,Inception,1
+13,Titanic,2
+13,Joker,5
+13,Matrix,4
+13,Frozen,4
+14,Interstellar,1
+14,Inception,4
+14,Titanic,4
+14,Avatar,3
+14,Joker,2
+14,Matrix,5
+14,Avengers,4
+14,Batman,1
+14,Toy Story,1
+15,Interstellar,1
+15,Inception,5
+15,Titanic,2
+15,Matrix,2
+15,Batman,1
+15,Toy Story,5
+16,Interstellar,1
+16,Inception,5
+16,Titanic,5
+16,Avatar,5
+16,Joker,1
+16,Matrix,4
+16,Avengers,5
+16,Batman,5
+16,Toy Story,2
+17,Interstellar,1
+17,Titanic,4
+17,Avatar,4
+17,Avengers,4
+17,Batman,4
+17,Toy Story,1
+18,Inception,2
+18,Avatar,5
+18,Joker,4
+18,Matrix,3
+18,Batman,5
+18,Toy Story,4
+19,Interstellar,4
+19,Inception,2
+19,Titanic,5
+19,Avatar,2
+19,Joker,3
+19,Matrix,4
+19,Batman,1
+19,Toy Story,2
+19,Frozen,3
+20,Interstellar,4
+20,Inception,5
+20,Avatar,5
+20,Joker,4
+20,Avengers,5
+20,Batman,2
+20,Toy Story,4
+20,Frozen,5
+21,Interstellar,1
+21,Inception,4
+21,Titanic,1
+21,Joker,1
+21,Avengers,4
+21,Toy Story,2
+21,Frozen,5
+22,Inception,5
+22,Titanic,3
+22,Avatar,4
+22,Joker,2
+22,Matrix,4
+22,Avengers,4
+22,Batman,1
+22,Toy Story,4
+23,Inception,4
+23,Titanic,2
+23,Avatar,2
+23,Matrix,3
+23,Avengers,4
+23,Batman,2
+23,Toy Story,3
+23,Frozen,1
+24,Interstellar,2
+24,Inception,3
+24,Titanic,5
+24,Avatar,2
+24,Joker,3
+24,Matrix,1
+24,Avengers,4
+24,Batman,5
+24,Toy Story,4
+25,Interstellar,1
+25,Titanic,3
+25,Avatar,1
+25,Joker,3
+25,Matrix,1
+25,Avengers,2
+25,Batman,1
+25,Toy Story,4
+25,Frozen,4
+26,Inception,4
+26,Titanic,1
+26,Joker,1
+26,Matrix,2
+26,Avengers,3
+26,Batman,1
+26,Toy Story,5
+26,Frozen,1
+27,Interstellar,2
+27,Inception,4
+27,Joker,1
+27,Matrix,1
+27,Avengers,2
+27,Toy Story,5
+28,Interstellar,5
+28,Inception,2
+28,Titanic,2
+28,Joker,5
+28,Matrix,5
+28,Avengers,2
+28,Batman,1
+29,Inception,3
+29,Avatar,4
+29,Joker,2
+29,Matrix,4
+29,Avengers,2
+29,Toy Story,3
+29,Frozen,4
+30,Inception,4
+30,Avatar,5
+30,Matrix,1
+30,Toy Story,2
+30,Frozen,1
+31,Interstellar,3
+31,Inception,4
+31,Titanic,1
+31,Matrix,1
+31,Avengers,5
+31,Batman,5
+31,Toy Story,4
+31,Frozen,1
+32,Interstellar,4
+32,Titanic,4
+32,Avatar,2
+32,Matrix,4
+32,Avengers,5
+32,Batman,2
+32,Toy Story,4
+32,Frozen,2
+33,Interstellar,4
+33,Inception,2
+33,Titanic,2
+33,Avatar,4
+33,Joker,4
+33,Matrix,5
+33,Avengers,3
+33,Toy Story,2
+34,Interstellar,3
+34,Inception,2
+34,Titanic,3
+34,Avatar,2
+34,Joker,2
+34,Matrix,1
+34,Avengers,1
+34,Toy Story,3
+34,Frozen,1
+35,Interstellar,3
+35,Inception,5
+35,Joker,3
+35,Matrix,3
+35,Avengers,5
+35,Batman,4
+35,Toy Story,2
+35,Frozen,2
+36,Interstellar,4
+36,Inception,3
+36,Titanic,3
+36,Avatar,1
+36,Matrix,4
+36,Avengers,1
+36,Batman,4
+36,Toy Story,1
+36,Frozen,2
+37,Interstellar,1
+37,Inception,5
+37,Titanic,2
+37,Avatar,1
+37,Joker,1
+37,Avengers,3
+37,Batman,2
+37,Toy Story,3
+37,Frozen,2
+38,Interstellar,3
+38,Inception,1
+38,Titanic,5
+38,Avatar,2
+38,Joker,1
+38,Matrix,5
+38,Avengers,1
+38,Batman,3
+38,Toy Story,4
+38,Frozen,1
+39,Interstellar,1
+39,Inception,2
+39,Avatar,4
+39,Matrix,3
+39,Batman,1
+39,Toy Story,5
+39,Frozen,2
+40,Interstellar,2
+40,Inception,3
+40,Avatar,1
+40,Matrix,1
+40,Batman,4
+40,Toy Story,3
+40,Frozen,4
+41,Inception,2
+41,Titanic,1
+41,Avatar,1
+41,Joker,5
+41,Matrix,4
+41,Avengers,2
+41,Toy Story,3
+41,Frozen,2
+42,Inception,2
+42,Titanic,4
+42,Joker,5
+42,Avengers,4
+42,Batman,2
+42,Toy Story,4
+42,Frozen,2
+43,Interstellar,4
+43,Inception,4
+43,Avatar,2
+43,Joker,3
+43,Matrix,1
+43,Avengers,4
+43,Batman,4
+43,Toy Story,2
+43,Frozen,2
+44,Interstellar,5
+44,Inception,5
+44,Avatar,4
+44,Joker,1
+44,Avengers,4
+44,Batman,2
+44,Toy Story,1
+44,Frozen,4
+45,Interstellar,5
+45,Inception,1
+45,Titanic,5
+45,Joker,5
+45,Matrix,5
+45,Batman,3
+45,Toy Story,1
+45,Frozen,3
+46,Interstellar,4
+46,Inception,1
+46,Titanic,3
+46,Avatar,2
+46,Joker,2
+46,Matrix,2
+46,Avengers,2
+46,Frozen,1
+47,Interstellar,3
+47,Inception,1
+47,Titanic,1
+47,Joker,2
+47,Avengers,5
+47,Batman,1
+47,Toy Story,2
+47,Frozen,3
+48,Interstellar,5
+48,Inception,5
+48,Titanic,1
+48,Avatar,2
+48,Matrix,2
+48,Avengers,3
+48,Frozen,4
+49,Interstellar,1
+49,Inception,3
+49,Titanic,4
+49,Avatar,2
+49,Joker,2
+49,Avengers,4
+49,Batman,4
+49,Toy Story,1
+49,Frozen,4
+50,Interstellar,2
+50,Inception,4
+50,Titanic,2
+50,Avatar,3
+50,Joker,2
+50,Matrix,5
+50,Avengers,2
+50,Batman,1
+50,Toy Story,3
+51,Interstellar,2
+51,Titanic,5
+51,Avatar,5
+51,Joker,5
+51,Matrix,2
+51,Avengers,4
+51,Batman,1
+51,Toy Story,3
+51,Frozen,2
+52,Inception,2
+52,Titanic,4
+52,Joker,2
+52,Matrix,1
+52,Avengers,1
+52,Batman,1
+52,Toy Story,1
+52,Frozen,4
+53,Interstellar,4
+53,Titanic,3
+53,Avatar,1
+53,Joker,1
+53,Matrix,5
+53,Avengers,5
+53,Toy Story,4
+53,Frozen,2
+54,Inception,5
+54,Titanic,3
+54,Avatar,2
+54,Joker,2
+54,Matrix,3
+54,Avengers,2
+54,Batman,2
+54,Toy Story,3
+54,Frozen,2
+55,Interstellar,3
+55,Titanic,2
+55,Avatar,4
+55,Matrix,3
+55,Avengers,1
+55,Toy Story,2
+55,Frozen,3
+56,Interstellar,5
+56,Inception,2
+56,Avatar,4
+56,Joker,1
+56,Avengers,1
+56,Toy Story,4
+56,Frozen,1
+57,Interstellar,4
+57,Inception,5
+57,Titanic,3
+57,Avatar,2
+57,Joker,3
+57,Matrix,2
+57,Avengers,4
+57,Toy Story,1
+57,Frozen,1
+58,Interstellar,5
+58,Inception,3
+58,Avatar,1
+58,Matrix,2
+58,Avengers,5
+58,Batman,1
+58,Toy Story,4
+59,Titanic,5
+59,Avatar,1
+59,Joker,1
+59,Avengers,2
+59,Batman,1
+59,Toy Story,5
+59,Frozen,1
+60,Interstellar,4
+60,Titanic,2
+60,Avatar,3
+60,Matrix,3
+60,Avengers,5
+60,Batman,5
+60,Toy Story,5
+61,Interstellar,2
+61,Inception,1
+61,Titanic,4
+61,Matrix,1
+61,Avengers,1
+61,Batman,1
+61,Toy Story,2
+62,Inception,4
+62,Avatar,4
+62,Joker,1
+62,Avengers,1
+62,Batman,4
+62,Toy Story,4
+63,Inception,1
+63,Titanic,1
+63,Avatar,3
+63,Joker,5
+63,Matrix,5
+63,Avengers,4
+63,Toy Story,4
+63,Frozen,3
+64,Interstellar,3
+64,Inception,5
+64,Titanic,1
+64,Matrix,2
+64,Avengers,3
+64,Batman,4
+64,Frozen,4
+65,Interstellar,4
+65,Inception,4
+65,Titanic,3
+65,Joker,4
+65,Batman,2
+65,Toy Story,1
+66,Interstellar,3
+66,Inception,4
+66,Titanic,5
+66,Avatar,1
+66,Joker,2
+66,Matrix,1
+66,Avengers,3
+66,Batman,3
+66,Toy Story,4
+67,Interstellar,2
+67,Inception,2
+67,Titanic,5
+67,Joker,1
+67,Matrix,5
+67,Avengers,3
+67,Batman,2
+67,Frozen,2
+68,Interstellar,5
+68,Inception,4
+68,Avatar,2
+68,Joker,3
+68,Matrix,3
+68,Avengers,1
+68,Batman,2
+68,Frozen,3
+69,Interstellar,3
+69,Inception,4
+69,Titanic,4
+69,Avatar,4
+69,Joker,2
+69,Matrix,1
+69,Avengers,4
+69,Batman,1
+69,Toy Story,1
+69,Frozen,1
+70,Interstellar,2
+70,Titanic,2
+70,Avatar,2
+70,Joker,5
+70,Matrix,4
+70,Batman,5
+70,Toy Story,1
+70,Frozen,2
+71,Interstellar,1
+71,Inception,3
+71,Titanic,5
+71,Avatar,1
+71,Joker,1
+71,Matrix,3
+71,Avengers,4
+71,Batman,2
+71,Toy Story,3
+72,Interstellar,2
+72,Inception,3
+72,Titanic,4
+72,Avatar,4
+72,Joker,5
+72,Matrix,2
+72,Avengers,5
+72,Toy Story,3
+72,Frozen,1
+73,Interstellar,3
+73,Inception,4
+73,Titanic,4
+73,Avatar,4
+73,Joker,3
+73,Matrix,1
+73,Avengers,4
+73,Batman,2
+73,Toy Story,1
+73,Frozen,3
+74,Interstellar,1
+74,Inception,4
+74,Titanic,1
+74,Avatar,4
+74,Joker,4
+74,Matrix,1
+74,Avengers,3
+74,Batman,3
+74,Frozen,1
+75,Interstellar,1
+75,Inception,1
+75,Avatar,5
+75,Joker,5
+75,Matrix,5
+75,Avengers,5
+75,Batman,3
+75,Toy Story,2
+75,Frozen,3
+76,Interstellar,1
+76,Inception,1
+76,Titanic,5
+76,Avatar,2
+76,Joker,4
+76,Matrix,1
+76,Avengers,5
+76,Batman,5
+76,Toy Story,1
+76,Frozen,3
+77,Inception,2
+77,Titanic,1
+77,Avatar,2
+77,Joker,5
+77,Matrix,1
+77,Avengers,3
+77,Batman,4
+77,Toy Story,2
+77,Frozen,3
+78,Interstellar,3
+78,Inception,1
+78,Titanic,1
+78,Avatar,3
+78,Joker,3
+78,Matrix,5
+78,Batman,1
+78,Toy Story,1
+78,Frozen,3
+79,Interstellar,1
+79,Avatar,4
+79,Joker,4
+79,Matrix,5
+79,Batman,3
+79,Toy Story,3
+79,Frozen,4
+80,Interstellar,3
+80,Titanic,2
+80,Avatar,3
+80,Matrix,1
+80,Avengers,3
+80,Toy Story,3
+81,Interstellar,4
+81,Inception,5
+81,Titanic,5
+81,Avatar,4
+81,Joker,5
+81,Matrix,4
+81,Avengers,5
+81,Batman,5
+81,Toy Story,5
+81,Frozen,1
+82,Interstellar,1
+82,Titanic,2
+82,Avatar,5
+82,Joker,4
+82,Matrix,4
+82,Avengers,1
+82,Batman,1
+82,Toy Story,5
+82,Frozen,5
+83,Interstellar,1
+83,Inception,3
+83,Titanic,4
+83,Avatar,5
+83,Joker,1
+83,Batman,2
+83,Frozen,3
+84,Interstellar,5
+84,Titanic,1
+84,Joker,4
+84,Avengers,4
+84,Batman,5
+84,Frozen,3
+85,Interstellar,4
+85,Inception,2
+85,Joker,3
+85,Matrix,2
+85,Batman,5
+85,Toy Story,5
+85,Frozen,5
+86,Interstellar,1
+86,Inception,4
+86,Titanic,2
+86,Avatar,3
+86,Matrix,1
+86,Avengers,3
+86,Batman,2
+86,Toy Story,5
+86,Frozen,4
+87,Interstellar,3
+87,Inception,2
+87,Titanic,5
+87,Avatar,1
+87,Matrix,5
+87,Batman,3
+87,Toy Story,1
+87,Frozen,1
+88,Avatar,5
+88,Joker,3
+88,Matrix,3
+88,Toy Story,2
+89,Interstellar,3
+89,Inception,3
+89,Joker,2
+89,Avengers,1
+89,Batman,5
+89,Toy Story,5
+89,Frozen,2
+90,Titanic,2
+90,Avatar,4
+90,Joker,4
+90,Matrix,2
+90,Batman,5
+90,Toy Story,2
+90,Frozen,2
+91,Joker,3
+91,Matrix,4
+91,Avengers,5
+91,Batman,3
+91,Toy Story,1
+91,Frozen,4
+92,Inception,1
+92,Titanic,1
+92,Avatar,4
+92,Joker,3
+92,Matrix,2
+92,Avengers,1
+92,Batman,2
+92,Toy Story,1
+92,Frozen,5
+93,Inception,2
+93,Titanic,2
+93,Avatar,4
+93,Joker,2
+93,Matrix,1
+93,Avengers,2
+93,Batman,5
+93,Toy Story,2
+93,Frozen,4
+94,Interstellar,4
+94,Titanic,3
+94,Avatar,3
+94,Matrix,2
+94,Avengers,2
+94,Batman,1
+94,Toy Story,4
+94,Frozen,1
+95,Inception,2
+95,Titanic,3
+95,Avatar,2
+95,Joker,2
+95,Matrix,5
+95,Avengers,2
+95,Batman,3
+95,Toy Story,5
+95,Frozen,4
+96,Inception,4
+96,Titanic,1
+96,Avatar,4
+96,Joker,3
+96,Matrix,1
+96,Avengers,1
+96,Batman,1
+96,Toy Story,2
+96,Frozen,2
+97,Interstellar,1
+97,Inception,2
+97,Titanic,2
+97,Joker,4
+97,Matrix,4
+97,Avengers,1
+97,Batman,4
+97,Toy Story,2
+97,Frozen,2
+98,Interstellar,4
+98,Inception,3
+98,Matrix,4
+98,Avengers,4
+98,Batman,1
+98,Toy Story,1
+98,Frozen,5
+99,Interstellar,4
+99,Inception,2
+99,Titanic,2
+99,Avatar,1
+99,Matrix,4
+99,Avengers,4
+99,Batman,2
+99,Toy Story,2
+99,Frozen,2
+100,Interstellar,5
+100,Inception,1
+100,Avatar,3
+100,Joker,3
+100,Matrix,5
+100,Avengers,3
+100,Batman,1
+100,Toy Story,1
