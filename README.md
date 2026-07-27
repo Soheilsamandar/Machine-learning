@@ -179,13 +179,9 @@ Each project follows a complete Machine Learning workflow:
 Project/
 
 ┣ 📜 dataset_generator.py
-
 ┣ 📜 train.py
-
 ┣ 📜 predict.py
-
 ┗ 📜 dataset csv file
-  
 ┗ 📜 models
 
   
