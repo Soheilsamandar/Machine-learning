@@ -11,7 +11,6 @@ A collection of Machine Learning projects built with Python, Scikit-Learn and Da
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge"/>
 
