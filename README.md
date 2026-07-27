@@ -169,8 +169,6 @@ Each project follows a complete Machine Learning workflow:
 
 <li>Matplotlib</li>
 
-<li>Jupyter Notebook</li>
-
 </ul>
 
 ---
@@ -181,19 +179,13 @@ Each project follows a complete Machine Learning workflow:
 
 Project/
 
-┣ 📂 dataset
-
-┣ 📂 notebooks
+┣ 📂 dataset_generator
 
 ┣ 📂 models
-
-┣ 📂 images
 
 ┣ 📜 train.py
 
 ┣ 📜 predict.py
-
-┣ 📜 requirements.txt
 
 ┗ 📜 README.md
 
@@ -208,7 +200,7 @@ git clone https://github.com/Soheilsamandar/Repository-Name.git
 
 cd Repository-Name
 
-pip install -r requirements.txt
+pip install pandas matplotlib scikit-Learn numpy
 ```
 
 ---
@@ -216,6 +208,8 @@ pip install -r requirements.txt
 <h2>▶ Run</h2>
 
 ```bash
+python dataset_generator.py
+
 python train.py
 
 python predict.py
