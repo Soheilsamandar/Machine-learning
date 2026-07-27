@@ -346,7 +346,6 @@ Shows how well the model explains the changes in house prices.
 <li>NumPy</li>
 <li>Scikit-Learn</li>
 <li>Matplotlib</li>
-<li>Jupyter Notebook</li>
 </ul>
 
 
